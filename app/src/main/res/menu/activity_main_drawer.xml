@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/beranda"
+            android:icon="@drawable/ic_house"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/profil"
+            android:icon="@drawable/profil"
+            android:title="Profil" />
+        <item
+            android:id="@+id/program_studi"
+            android:icon="@drawable/kategori"
+            android:title="Program Studi" />
+        <item
+            android:id="@+id/tautan"
+            android:icon="@drawable/link"
+            android:title="Tautan" />
+        <item
+            android:id="@+id/kontak_kami"
+            android:icon="@drawable/kontak_kami"
+             android:title="Kontak Kami" />
+
+    </group>
+
+</menu>
