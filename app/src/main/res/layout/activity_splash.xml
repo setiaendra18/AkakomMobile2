@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="@drawable/bg6"
     tools:context="setiaendra18.gmail.com.akakommobile.Splash">
 
     <LinearLayout
@@ -18,11 +18,11 @@
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_gravity="center"
-            android:src="@drawable/logo5" />
+            android:src="@drawable/logo4" />
 
         <TextView
             android:id="@+id/tv"
-            android:textColor="@color/primarytext"
+            android:textColor="@color/putih"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
