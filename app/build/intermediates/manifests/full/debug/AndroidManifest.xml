@@ -30,6 +30,10 @@
             </intent-filter>
         </activity>
         <activity android:name="setiaendra18.gmail.com.akakommobile.MainActivity" />
+        <activity
+            android:name="setiaendra18.gmail.com.akakommobile.utama"
+            android:label="@string/title_activity_utama"
+            android:theme="@style/AppTheme" />
     </application>
 
 </manifest>
