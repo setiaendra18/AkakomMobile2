@@ -84,6 +84,10 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_program_studi.xml",
+        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_program_studi.xml"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
@@ -120,16 +124,16 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_utama.xml",
-        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_utama.xml"
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profil.xml",
+        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kontak_kami.xml",
+        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_kontak_kami.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_utama.xml",
-        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\fragment_utama.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
@@ -186,6 +190,10 @@
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tautan.xml",
+        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_tautan.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",

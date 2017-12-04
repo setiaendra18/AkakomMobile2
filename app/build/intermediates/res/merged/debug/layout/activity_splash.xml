@@ -19,7 +19,6 @@
             android:layout_height="150dp"
             android:layout_gravity="center"
             android:src="@drawable/logo4" />
-
         <TextView
             android:id="@+id/tv"
             android:textColor="@color/primarytext"

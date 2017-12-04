@@ -20,10 +20,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity" />
-        <activity
-            android:name=".utama"
-            android:label="@string/title_activity_utama"
-            android:theme="@style/AppTheme"></activity>
+        <activity android:name=".profil" />
+        <activity android:name=".program_studi" />
+        <activity android:name=".tautan" />
+        <activity android:name=".kontak_kami"></activity>
     </application>
 
 </manifest>
