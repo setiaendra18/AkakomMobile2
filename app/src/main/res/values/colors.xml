@@ -9,4 +9,5 @@
     <color name="secondarytext">#757575</color>
     <color name="divider">#212121</color>
     <color name="putih">#FFFFFF</color>
+    <color name="basic_color">#000000</color>
 </resources>

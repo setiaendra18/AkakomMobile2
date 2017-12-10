@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".program_studi">
 
-    <TextView
-        android:id="@+id/tab5"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Tab5"
-        android:textSize="24sp"/>
-</android.support.constraint.ConstraintLayout>
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tab1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Teknik Komputer"
+            android:textSize="24sp"
+            android:textColor="@color/basic_color"/>
+
+        <TextView
+            android:id="@+id/explain_ti"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/tab_tk"
+            android:textSize="16sp"
+            android:layout_below="@id/tab1"
+            android:textColor="@color/basic_color"
+            />
+    </RelativeLayout>
+</LinearLayout>

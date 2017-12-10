@@ -8,9 +8,17 @@
     <string name="title_activity_utama">Info dan Beria</string>
     <string name="section_format">Hello World from section: %1$d</string>
 
+    //Tabbed Layout PRODI
     <string name="tab_text_1">Teknik Informatika</string>
     <string name="tab_text_2">Sistem Informasi</string>
     <string name="tab_text_3">Manajemen Informatika</string>
     <string name="tab_text_4">Komputerisasi Akuntansi</string>
     <string name="tab_text_5">Teknik Komputer</string>
+
+    //Explain
+    <string name="tab_ti">Teknik Informatika merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
+    <string name="tab_si">Sistem Informasi merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
+    <string name="tab_mi">Manajemen Informatika merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
+    <string name="tab_ka">Komputerisasi Akuntansi merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
+    <string name="tab_tk">Teknik Komputer merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
 </resources>
