@@ -1,4 +1,4 @@
-#Mon Dec 11 23:05:28 ICT 2017
-base.0=E\:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Tue Dec 12 00:10:26 ICT 2017
+base.0=C\:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=E\:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
