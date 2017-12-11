@@ -104,6 +104,7 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="amber_50">#fff8e1</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
@@ -125,6 +126,7 @@
     <color name="colorPrimary">#b5b4b4</color>
     <color name="colorPrimaryDark">#959494</color>
     <color name="colorPrimaryLight">#FFECB3</color>
+    <color name="cyan_50">#e0f7fa</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -182,6 +184,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="white_70">#B3FFFFFF</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
@@ -708,6 +711,10 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="misi">"Adapun misi STMIK AKAKOM adalah melaksanakan Tridharma Perguruan Tinggi dalam bidang komputer dan "
+        "teknologi informasi yang berorientasi kepada perkembangan ilmu pengetahuan, teknologi dan seni.\n"
+    </string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -720,6 +727,22 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tab_ka">Komputerisasi Akuntansi merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
     <string name="tab_mi">Manajemen Informatika merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
+    <string name="tab_riwayat">"Dalam abad ke-20 ini dunia banyak diwarnai dengan berbagai kemajuan secara menakjubkan yang "
+        "telah diciptakan oleh umat manusia, baik dibidang ilmu maupun teknologi. Menanggapi kondisi "
+        "zaman seperti tersebut di atas, pada tanggal 30 Juni 1979 didirikan sebuah yayasan dengan "
+        "nama Yayasan Pendidikan Widya Bakti, yang bertujuan mengembangkan dan menyebarluaskan "
+        "informatika dan teknologi komputer di kalangan masyarakat indonesia melalui usaha pendidikan "
+        "yang sistematis dan ilmiah. Yayasan tersebut mengelola sebuah akademi yang bernama Akademi "
+        "Aplikasi Komputer, disingkat AKAKOM.\n\n"
+        "Terhitung mulai 1 Maret 1983, Akademi Aplikasi Komputer(AKAKOM), diubah menjadi Akademi "
+        "Komputer dan Informatika AKAKOM. Selanjutnya terhitung mulai tanggal 2 Mei 1985, "
+        "nama Akademi Komputer dan Informatika AKAKOM diubah dan dibakukan menjadi Akademi Manajemen "
+        "Informatika dan Komputer(AMIK)AKAKOM.\n\n"
+        "Agar lembaga tersebut mampu menghasilkan tenaga-tenaga profesional maupun akademik yang lebih "
+        "berbobot dalam bidang informatika dan komputer, maka sejak tanggal 8 Juni 1992, berdasarkan "
+        "Surat Keputusan Direktorat Jendral Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI "
+        "Nomor 262/DIKTI/Kep/1992, AMIK AKAKOM diubah bentuknya menjadi Sekolah Tinggi Manajemen Informatika "
+        "dan Komputer (STMIK) AKAKOM yang membuka program sarjana dan program diploma..\n\n"</string>
     <string name="tab_si">Sistem Informasi merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
     <string name="tab_text_1">Teknik Informatika</string>
     <string name="tab_text_2">Sistem Informasi</string>
@@ -729,6 +752,10 @@
     <string name="tab_ti">Teknik Informatika merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
     <string name="tab_tk">Teknik Komputer merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
     <string name="title_activity_utama">Info dan Beria</string>
+    <string name="visi">"STMIK AKAKOM mempunyai visi untuk menjadi perguruan tinggi unggulan dalam bidang teknologi informasi "
+        "yang bertumpu pada nilai-nilai dan etika kehidupan yang baik, benar dan universal untuk mewujudkan "
+        "peningkatan taraf hidup bangsa. \n"
+    </string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

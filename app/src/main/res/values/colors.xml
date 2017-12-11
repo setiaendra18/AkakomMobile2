@@ -10,4 +10,7 @@
     <color name="divider">#212121</color>
     <color name="putih">#FFFFFF</color>
     <color name="basic_color">#000000</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="cyan_50">#e0f7fa</color>
+    <color name="amber_50">#fff8e1</color>
 </resources>

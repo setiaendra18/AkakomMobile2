@@ -1,11 +1,31 @@
 [
     {
+        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\profil.png",
+        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profil.png"
+    },
+    {
+        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kontak_kami.png",
+        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\kontak_kami.png"
+    },
+    {
+        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\profil.png",
+        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profil.png"
+    },
+    {
+        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kategori.png",
+        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\kategori.png"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\link.png",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\link.png"
     },
     {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kategori.png",
         "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\kategori.png"
+    },
+    {
+        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\link.png",
+        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\link.png"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kategori.png",
@@ -16,12 +36,28 @@
         "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\link.png"
     },
     {
+        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\beranda.png",
+        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\beranda.png"
+    },
+    {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\profil.png",
         "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profil.png"
     },
     {
+        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\link.png",
+        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\link.png"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\profil.png",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profil.png"
+    },
+    {
+        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kategori.png",
+        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\kategori.png"
+    },
+    {
+        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\beranda.png",
+        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\beranda.png"
     },
     {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kontak_kami.png",
@@ -38,5 +74,9 @@
     {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\beranda.png",
         "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\beranda.png"
+    },
+    {
+        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\kontak_kami.png",
+        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\kontak_kami.png"
     }
 ]
