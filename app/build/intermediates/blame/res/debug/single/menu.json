@@ -1,62 +1,14 @@
 [
     {
-        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_utama.xml",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\menu\\menu_utama.xml"
-    },
-    {
-        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_utama.xml",
-        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\menu_utama.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_utama.xml",
-        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\menu_utama.xml"
-    },
-    {
-        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_utama.xml",
-        "source": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\src\\main\\res\\menu\\menu_utama.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "E:\\MOBILE\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_utama.xml",
-        "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\menu\\menu_utama.xml"
     }
 ]

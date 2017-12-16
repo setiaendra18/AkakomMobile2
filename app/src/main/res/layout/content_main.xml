@@ -1,74 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="setiaendra18.gmail.com.akakommobile.MainActivity"
-    tools:showIn="@layout/app_bar_main">
-    <android.support.v7.widget.RecyclerView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/recycler_view"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:clipToPadding="false"
-        android:paddingBottom="16dp"
-        android:paddingTop="16dp"
-        android:scrollbars="vertical"
-        />
-    <android.support.v7.widget.CardView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/card_view"
-        android:clickable="true"
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_marginBottom="8dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
-        android:foreground="?attr/selectableItemBackground">
 
-        <RelativeLayout
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal"
+    android:layout_weight="7"
+    android:padding="8dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="4dp">
+
+        <ImageView
+            android:id="@+id/galleryImage"
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="7"
+        >
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:shadowColor="#000"
+            android:shadowRadius="1.0"
+            android:textColor="#666666"
+            android:textSize="17sp"
+            android:layout_marginBottom="5dp"
+            android:maxLines="2"
+            android:scrollHorizontally="true"
+            android:ellipsize="end"
+            android:text="This is news title"/>
+
+        <TextView
+            android:id="@+id/sdetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#777777"
+            android:textSize="16sp"
+            android:maxLines="2"
+            android:minLines="2"
+            android:scrollHorizontally="true"
+            android:ellipsize="end"
+            android:text="This is news description bla bla bla..."/>
+
+
+
+        <LinearLayout
             android:layout_width="match_parent"
-            android:gravity="center"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
 
-            <ImageView
-                android:id="@+id/daftar_icon"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
-                android:layout_centerVertical="true"
-                android:layout_alignParentLeft="true"
-                android:layout_marginLeft="10dp"
-                android:scaleType="centerCrop"
-                android:src="@mipmap/ic_launcher" />
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/author"
+                    android:textSize="15sp"
+                    android:textColor="#42A5F5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="News Author"/>
+
+            </LinearLayout>
+
 
             <TextView
-                android:id="@+id/daftar_judul"
-                android:layout_centerVertical="true"
-                android:layout_width="match_parent"
+                android:id="@+id/time"
+                android:gravity="right"
+                android:textSize="14sp"
+                android:textColor="#42A5F5"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="16dp"
-                android:layout_toRightOf="@+id/daftar_icon"
-                android:text="Daftar Judul"
-                android:textColor="#000000"
-                android:textAppearance="?attr/textAppearanceListItem"
-                android:textSize="16sp" />
-
-            <TextView
-                android:id="@+id/daftar_deskripsi"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/daftar_judul"
-                android:layout_marginLeft="16dp"
-                android:layout_toRightOf="@+id/daftar_icon"
-                android:textColor="#000000"
-                android:ellipsize="end"
-                android:singleLine="true"
-                android:text="Ini adalah contoh text deskripsi "
-                android:textAppearance="?attr/textAppearanceListItem"
-                android:textSize="14sp" />
-        </RelativeLayout>
-    </android.support.v7.widget.CardView>
-
-</RelativeLayout>
+                android:text="Time"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

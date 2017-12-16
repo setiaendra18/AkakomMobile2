@@ -47,4 +47,5 @@
     <string name="misi">"Adapun misi STMIK AKAKOM adalah melaksanakan Tridharma Perguruan Tinggi dalam bidang komputer dan "
         "teknologi informasi yang berorientasi kepada perkembangan ilmu pengetahuan, teknologi dan seni.\n"
     </string>
+    <string name="tautanList">ListView From Array</string>
 </resources>

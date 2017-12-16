@@ -1,7 +1,4 @@
-#Wed Dec 13 23:17:45 ICT 2017
-base.0=C\:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f944985c98bc8e4d55f57b1947445b401c4a9e2f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_058f46c3b2fd0ce29419610920a3b2c76de7eced\\classes.dex
-base.1=C\:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_058f46c3b2fd0ce29419610920a3b2c76de7eced
-file.0=C\:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f944985c98bc8e4d55f57b1947445b401c4a9e2f\\classes.dex
+#Sat Dec 16 14:19:38 ICT 2017
+base.0=C\:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
