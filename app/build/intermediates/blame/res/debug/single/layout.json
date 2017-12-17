@@ -76,10 +76,6 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
-        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_detail.xml"
-    },
-    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
@@ -216,12 +212,12 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tautan.xml",
-        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_tautan.xml"
-    },
-    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tautan.xml",
+        "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\layout\\activity_tautan.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
