@@ -7,6 +7,10 @@
     tools:context="setiaendra18.gmail.com.akakommobile.riwayat">
 
     <!-- TODO: Update blank fragment layout -->
+    <android.support.v4.widget.NestedScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -19,26 +23,22 @@
             style="@style/TextAppearance.AppCompat.Subhead"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="@dimen/activity_horizontal_margin"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:textSize="20dp"
+            android:textColor="@color/amber_dark"
             android:fontFamily="sans-serif-medium"
-            android:text="RIWAYAT STMIK AKAKOM"
-            tools:targetApi="jelly_bean" />
+            android:text="RIWAYAT STMIK AKAKOM"/>
 
         <TextView
             android:id="@+id/txt_desc"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginStart="@dimen/activity_horizontal_margin"
+
             android:layout_marginTop="8dp"
+            android:textSize="16dp"
             android:text="@string/tab_riwayat" />
 
-
     </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
 
 
 </FrameLayout>
