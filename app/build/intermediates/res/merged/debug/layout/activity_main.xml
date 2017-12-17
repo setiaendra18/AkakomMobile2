@@ -36,6 +36,7 @@
             android:visibility="invisible"
             />
 
+
         <ProgressBar
             android:id="@+id/loader"
             android:layout_width="wrap_content"
