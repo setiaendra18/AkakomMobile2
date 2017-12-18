@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="contact_email">
+        <item>abudisug@akakom.ac.id</item>
+         <item>adikusja@akakom.ac.id </item>
+        <item>aditya@akakom.ac.id </item>
+        <item>yudha_pr@akakom.ac.id </item>
+        <item>agnesnora@akakom.ac.id </item>
+        <item>agung_bp@akakom.ac.id </item>
+        <item>Alagus@akakom.ac.id. </item>
+        <item>iest_ayanthi@akakom.ac.id </item>
+        <item>ajidharma@akakom.ac.id </item>
+        <item>badi@akakom.ac.id </item>
+        <item>bpurnomo@akakom.ac.id </item>
+        <item>bheriw@akakom.ac.id</item>
+        <item>bertabed@akakom.ac.id </item>
+        <item>bertabed61@gmail.com </item>
+        <item>cosmas@akakom.ac.id</item>
+    </string-array>
+    <string-array name="contact_names">
+        <item>A Budi Sugihardjo </item>
+        <item>Adi Kusjani</item>
+        <item>Aditya Dimas Dewanto</item>
+        <item>Adiyuda Prayitna</item>
+        <item>Agnes Nora Eko Wahyu Utami </item>
+        <item>Agung Budi Prasetyo </item>
+        <item>Aloysius Subagyo </item>
+        <item>Ariesta Damayanti</item>
+        <item>Ary Ajidharma </item>
+        <item>Badiyanto  </item>
+        <item>Bambang Purnomosidi D.P.</item>
+        <item>Basuki Heri Winarno</item>
+        <item>Berta Bednar </item>
+        <item>Berta Bednar</item>
+        <item>Cosmas Haryawan </item>
+    </string-array>
     <attr format="reference" name="constraintSet"/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -571,6 +605,7 @@
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_margin_half">8dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="appbar_padding_top">8dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>

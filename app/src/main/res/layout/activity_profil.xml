@@ -66,10 +66,10 @@
         android:id="@+id/htab_viewpager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@android:color/white"
         android:layout_margin="16dp"
-        android:elevation="@dimen/nav_header_height"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior" >
+        android:background="@android:color/white"
+        android:elevation="4dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
     </android.support.v4.view.ViewPager>
 </android.support.design.widget.CoordinatorLayout>

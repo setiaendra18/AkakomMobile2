@@ -13,12 +13,15 @@ import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.graphics.Palette;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.FrameLayout;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -100,9 +103,11 @@ public class profil extends AppCompatActivity {
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFrag(new RiwayatFragment(
-                ContextCompat.getColor(this, R.color.cyan_50)), "Profile Akakom");
+                ContextCompat.getColor(this, R.color.cyan_50)), "Riwayat");
         adapter.addFrag(new VisiMisiFragment(
                 ContextCompat.getColor(this, R.color.amber_50)), "Visi Misi");
+        adapter.addFrag(new ContactFragment(
+                ContextCompat.getColor(this, R.color.white_70)), "Dosen");
         viewPager.setAdapter(adapter);
     }
 /*
@@ -186,6 +191,36 @@ public class profil extends AppCompatActivity {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
             View view = inflater.inflate(R.layout.fragment_visi_misi, container, false);
+
+            return view;
+        }
+    }
+    public static class ContactFragment extends Fragment {
+        int color;
+
+        public ContactFragment() {
+        }
+
+        @SuppressLint("ValidFragment")
+        public ContactFragment(int color) {
+            this.color = color;
+        }
+
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+            View view = inflater.inflate(R.layout.fragment_contact, container, false);
+
+            final FrameLayout frameLayout = (FrameLayout) view.findViewById(R.id.dummyfrag_bg);
+            frameLayout.setBackgroundColor(color);
+
+            RecyclerView recyclerView = (RecyclerView) view.findViewById(R.id.dummyfrag_scrollableview);
+
+            LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getActivity().getBaseContext());
+            recyclerView.setLayoutManager(linearLayoutManager);
+            recyclerView.setHasFixedSize(true);
+
+            ContactAdapter adapter = new ContactAdapter(getContext());
+            recyclerView.setAdapter(adapter);
 
             return view;
         }
