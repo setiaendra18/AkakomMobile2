@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_names">
+        <item>A Budi Sugihardjo </item>
+        <item>Adi Kusjani</item>
+        <item>Aditya Dimas Dewanto</item>
+        <item>Adiyuda Prayitna</item>
+        <item>Agnes Nora Eko Wahyu Utami </item>
+        <item>Agung Budi Prasetyo </item>
+        <item>Aloysius Subagyo </item>
+        <item>Ariesta Damayanti</item>
+        <item>Ary Ajidharma </item>
+        <item>Badiyanto  </item>
+        <item>Bambang Purnomosidi D.P.</item>
+        <item>Basuki Heri Winarno</item>
+        <item>Berta Bednar </item>
+        <item>Berta Bednar</item>
+        <item>Cosmas Haryawan </item>
+    </string-array>
+
+    <string-array name="contact_email">
+        <item>abudisug@akakom.ac.id</item>
+         <item>adikusja@akakom.ac.id </item>
+        <item>aditya@akakom.ac.id </item>
+        <item>yudha_pr@akakom.ac.id </item>
+        <item>agnesnora@akakom.ac.id </item>
+        <item>agung_bp@akakom.ac.id </item>
+        <item>Alagus@akakom.ac.id. </item>
+        <item>iest_ayanthi@akakom.ac.id </item>
+        <item>ajidharma@akakom.ac.id </item>
+        <item>badi@akakom.ac.id </item>
+        <item>bpurnomo@akakom.ac.id </item>
+        <item>bheriw@akakom.ac.id</item>
+        <item>bertabed@akakom.ac.id </item>
+        <item>bertabed61@gmail.com </item>
+        <item>cosmas@akakom.ac.id</item>
+    </string-array>
+</resources>
