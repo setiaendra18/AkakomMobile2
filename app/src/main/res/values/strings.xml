@@ -74,4 +74,27 @@
         "masyarakat yang maju, adil dan sejahtera.\n\n"
     </string>
     <string name="tautanList">ListView From Array</string>
+
+    <string name="title">KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</string>
+    <string name="description">Seorang yang sangat tertarik dengan perkembangan teknologi dan antusias terhadap komunitas dan startup</string>
+    <string name="tautan">Tautan Situs Resmi </string>
+        <string-array name="array_list">
+            <item>STMIK AKAKOM JANTI</item>
+            <item>SIAKAD AKAKOM</item>
+            <item>LABORATORIUM AKAKOM</item>
+            <item>YAYASAN WIDYA BAKTI</item>
+            <item>TI STMIK AKAKOM</item>
+            <item>SI STMIK AKAKOM</item>
+            <item>KA STMIK AKAKOM</item>
+            <item>MI STMIK AKAKOM</item>
+            <item>TK STMIK AKAKOM</item>
+            <item>PERPUSTAKAAN AKAKOM</item>
+            <item>BLOG MAHASISWA</item>
+            <item>HMJTI</item>
+            <item>HMJKA</item>
+            <item>HMJSI</item>
+
+
+        </string-array>
+
 </resources>
