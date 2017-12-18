@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\f8f4a3b588ef27cf2293a6af959dbd60e034590c\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     }

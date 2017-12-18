@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kategori.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\kategori.png"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kategori.png",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\kategori.png"
     },
@@ -8,8 +12,20 @@
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\link.png"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kontak_kami.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\kontak_kami.png"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\link.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\link.png"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\profil.png",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profil.png"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\profil.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profil.png"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kontak_kami.png",
@@ -18,5 +34,9 @@
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\beranda.png",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\beranda.png"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\beranda.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\beranda.png"
     }
 ]

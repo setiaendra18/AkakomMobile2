@@ -4,16 +4,36 @@
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\kontak_kami.xml"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\profil.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profil.xml"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\f8f4a3b588ef27cf2293a6af959dbd60e034590c\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\profil.xml",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profil.xml"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\link.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\link.xml"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\beranda.xml",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\beranda.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\kontak_kami.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\kontak_kami.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\kategori.xml",
@@ -24,7 +44,15 @@
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\link.xml"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\kategori.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\kategori.xml"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\f8f4a3b588ef27cf2293a6af959dbd60e034590c\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

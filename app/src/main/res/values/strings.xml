@@ -47,6 +47,32 @@
     <string name="misi">"Adapun misi STMIK AKAKOM adalah melaksanakan Tridharma Perguruan Tinggi dalam bidang komputer dan "
         "teknologi informasi yang berorientasi kepada perkembangan ilmu pengetahuan, teknologi dan seni.\n"
     </string>
+    <string name="sasaran">"Untuk mencapai 5 tujuan tersebut, perlu ditetapkan sasaran-sasaran yang dapat diukur "
+        "ketercapaiannya. Sasaran yang dikelompokkan dalam 6 kategori :\n\n"
+        "1.  Sasaran untuk mencapai kualitas Tridharma yang unggul.\n"
+        "2.  Sasaran untuk mencapai tujuan terselenggaranya sistem pendidikan yang tanggap  terhadap perkembangan "
+        "ilmu dan teknologi informasi dengan memadukan keunggulan akademik dan mutu profesi.\n"
+        "3.  Sasaran untuk mencapai tujuan terselenggaranya penelitian untuk menghasilkan temuan baru, rekayasa, "
+        "dan kajian yang berguna bagi pemberdayaan teknologi informasi dan hidup bermasyarakat.\n"
+        "4.  Sasaran untuk mencapai tujuan pemasyarakatan teknologi informasi sebagai prasarana kehidupan modern "
+        "bangsa Indonesia.\n"
+        "5.  Sasaran untuk mencapai tujuan terbentuknya sumberdaya manusia yang memiliki kompetensi akademis dan "
+        "atau profesional, yang beriman, bertakwa, mandiri, kreatif, dan berkemampuan meningkatkan kualitasnya "
+        "secara berkelanjutan.\n"
+        "6.  Sasaran untuk mencapai tujuan terwujudnya masyarakat modern yang berperan aktif dalam pembangunan "
+        "nasional serta dalam membentuk masyarakat yang maju, adil dan sejahtera.\n"
+    </string>
+    <string name="tujuan">"Tujuan yang ingin dicapai STMIK AKAKOM adalah :\n\n"
+        "1.  Terselenggaranya sistem pendidikan yang tanggap terhadap perkembangan ilmu dan teknologi informasi "
+        "dengan memadukan keunggulan akademik dan mutu profesi.\n"
+        "2.  Terselenggaranya penelitian untuk menghasilkan temuan baru, rekayasa, dan kajian yang berguna bagi "
+        "pemberdayaan teknologi informasi dan hidup bermasyarakat.\n"
+        "3.  Pemasyarakatan teknologi informasi sebagai prasarana kehidupan modern bangsa Indonesia.\n"
+        "4.  Terbentuknya sumberdaya manusia yang memiliki kompetensi akademis dan atau profesional, yang beriman, "
+        "bertakwa, mandiri, kreatif, dan berkemampuan meningkatkan kualitasnya secara berkelanjutan.\n"
+        "5.  Terwujudnya masyarakat modern yang berperan aktif dalam pembangunan nasional serta dalam membentuk "
+        "masyarakat yang maju, adil dan sejahtera.\n\n"
+    </string>
     <string name="tautanList">ListView From Array</string>
 
     <string name="title">KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</string>

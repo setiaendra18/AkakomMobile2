@@ -8,8 +8,16 @@
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profil.png"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\profil.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profil.png"
+    },
+    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\link.png",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kontak_kami.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\kontak_kami.png"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\beranda.png",
@@ -18,5 +26,17 @@
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kontak_kami.png",
         "source": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\kontak_kami.png"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kategori.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\kategori.png"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\link.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\beranda.png",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\beranda.png"
     }
 ]
