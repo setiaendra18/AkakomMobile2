@@ -6,6 +6,10 @@
     tools:context="setiaendra18.gmail.com.akakommobile.visiMisi">
 
     <!-- TODO: Update blank fragment layout -->
+    <android.support.v4.widget.NestedScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -18,22 +22,17 @@
             style="@style/TextAppearance.AppCompat.Subhead"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="@dimen/activity_horizontal_margin"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginStart="@dimen/activity_horizontal_margin"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
-            tools:targetApi="jelly_bean"
-            android:text="VISI STMIK AKAKOM" />
+            android:textColor="@color/amber_dark"
+            android:textSize="20dp"
+            android:text="VISI" />
 
         <TextView
             android:id="@+id/txt_visi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:textSize="16dp"
             android:layout_marginTop="8dp"
             android:text="@string/visi"/>
         <TextView
@@ -41,28 +40,59 @@
             style="@style/TextAppearance.AppCompat.Subhead"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="@dimen/activity_horizontal_margin"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginStart="@dimen/activity_horizontal_margin"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
-            tools:targetApi="jelly_bean"
-            android:text="MISI STMIK AKAKOM" />
+            android:textColor="@color/amber_dark"
+            android:textSize="20dp"
+            android:text="MISI" />
 
         <TextView
             android:id="@+id/txt_misi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:textSize="16dp"
             android:layout_marginTop="8dp"
 
             android:text="@string/misi"/>
+        <TextView
+            android:id="@+id/txt_title_tujuan"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@color/amber_dark"
+            android:textSize="20dp"
+            android:text="TUJUAN" />
 
+        <TextView
+            android:id="@+id/txt_tujuan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginTop="8dp"
 
+            android:text="@string/tujuan"/>
+        <TextView
+            android:id="@+id/txt_title_sasaran"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@color/amber_dark"
+            android:textSize="20dp"
+            android:text="SASARAN" />
 
+        <TextView
+            android:id="@+id/txt_sasaran"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginTop="8dp"
+
+            android:text="@string/sasaran"/>
     </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
 
 </FrameLayout>
