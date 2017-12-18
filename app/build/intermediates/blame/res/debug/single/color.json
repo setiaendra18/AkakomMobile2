@@ -1,19 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
@@ -24,8 +20,8 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
@@ -36,16 +32,20 @@
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
@@ -56,24 +56,144 @@
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\f8f4a3b588ef27cf2293a6af959dbd60e034590c\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\f8f4a3b588ef27cf2293a6af959dbd60e034590c\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
@@ -88,14 +208,6 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\f8f4a3b588ef27cf2293a6af959dbd60e034590c\\output\\res\\color\\design_error.xml"
-    },
-    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_default.xml"
     },
@@ -104,36 +216,24 @@
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\f8f4a3b588ef27cf2293a6af959dbd60e034590c\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\color\\design_error.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
@@ -142,14 +242,6 @@
     {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -166,10 +258,6 @@
     {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",

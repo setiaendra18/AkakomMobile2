@@ -12,12 +12,24 @@
         "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\menu_utama.xml"
     },
     {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
         "source": "C:\\Users\\putri\\Documents\\GitHub\\new\\AkakomMobile2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_utama.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\src\\main\\res\\menu\\menu_utama.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
