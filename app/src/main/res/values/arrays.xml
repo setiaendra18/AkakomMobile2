@@ -16,6 +16,14 @@
         <item>Berta Bednar </item>
         <item>Berta Bednar</item>
         <item>Cosmas Haryawan </item>
+        <item>Cuk Subiyantoro</item>
+        <item>Danny Kriestanto</item>
+        <item>Dara Kusumawati </item>
+        <item> Deborah Kurniawati </item>
+        <item>Dini Fakta Sari </item>
+        <item>Dison Librado </item>
+        <item>Domy Kristomo </item>
+        <item>Edy Prayitno </item>
     </string-array>
 
     <string-array name="contact_email">
@@ -34,5 +42,13 @@
         <item>bertabed@akakom.ac.id </item>
         <item>bertabed61@gmail.com </item>
         <item>cosmas@akakom.ac.id</item>
+        <item>cuks@akakom.ac.id </item>
+        <item>danny@akakom.ac.id </item>
+        <item>dara@akakom.ac.id </item>
+        <item>debbie_mom_rai@akakom.ac.id </item>
+        <item>dini@akakom.ac.id </item>
+        <item>dison@akakom.ac.id </item>
+        <item>domy@akakom.ac.id </item>
+        <item>edyprayitno@akakom.ac.id </item>
     </string-array>
 </resources>
