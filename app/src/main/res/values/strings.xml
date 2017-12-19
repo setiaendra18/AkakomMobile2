@@ -16,11 +16,35 @@
     <string name="tab_text_5">Teknik Komputer</string>
 
     //Explain
-    <string name="tab_ti">Teknik Informatika merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
-    <string name="tab_si">Sistem Informasi merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
-    <string name="tab_mi">Manajemen Informatika merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
-    <string name="tab_ka">Komputerisasi Akuntansi merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
-    <string name="tab_tk">Teknik Komputer merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
+    <string name="tab_ti">
+        Program Studi Teknik Informatika mulai diselenggarakan berdasarkan SK No. 300/DIKTI/Kep/1992. Saat ini Program Studi Teknik Informatika telah diakreditasi ‘B’ berdasarkan SK No. 028/BAN-PT/Ak-IX/S1/I/2006.
+Minat untuk mengikuti pendidikan pada Program Studi Teknik Informatika sangat besar dan meningkat dari tahun ke tahun dan berasal dari semua propinsi di Indonesia. Hal ini dikarenakan kebutuhan alumni Program Studi Teknik Informatika   cukup tinggi karena hampir semua aspek membutuhkan teknologi informasi untuk berkembang.  Selain itu juga mengisyaratkan bahwa Program Studi Teknik Informatika  sudah dikenal dalam taraf nasional.
+Jumlah alumni Program Studi Teknik Informatika  hingga saat ini mencapai sekitar 1000 mahasiswa, yang telah bekerja pada perbankan, perminyakan, pendidikan, kesehatan , dan bidang-bidang lain. Banyak mahasiswa yang telah bekerja sebelum lulus dari pendidikannya. Hal ini membuktikan bahwa ilmu yang diterima mahasiwa bisa digunakan kapan saja. Beberapa lapangan kerja alumni diantaranya Krakatau Steel, BRI, Pertamina, TOTAL, (SGM), Instansi Negeri (Kejaksaaan, Pemda, PTN), dan Perguruan Tinggi Swasta.
+Kegiatan-kegiatan yang dilaksanakan oleh Program Studi Teknik Informatika  sangat beragam. Kegiatan tersebut dalam bentuk penelitian bersama dosen dan mahasiswa, partisipan / penyelenggara even  nasional maupun internasional  (seminar, workshop, kuliah umum), pelatihan teknologi informasi ke instansi/organisasi.
+
+    </string>
+    <string name="tab_si">
+        Program Studi Sistem Informasi merupakan salah satu program studi yang diselenggarakan oleh STMIK AKAKOM. Program Studi Sistem Informasi mulai diselenggarakan berdasarkan SK No. 300/Dikti/Kep/1992 saat itu dengan nama Manajemen Informatika. Dan saat ini telah terakreditasi ‘B’ berdasarkan SK No. 011/BAN-PT/Ak-X/S1/VIII/2006.
+Pada tahun 2009  Program Studi ini telah menerapkan kurikulum berbasis kompetensi. Dalam kurikulum yang dirancang untuk 8 semester ini, program studi mengarahkan minat sistem informasi berorientasi bisnis dan akuntansi. Dengan demikian, diharapkan lulusan akan dapat menganalisis, merancang, mengimplementasikan sistem informasi yang bisa membantu keputusan bisnis ataupun akuntansinya. Dengan kurikulum yang dirancang seperti itu, maka peminat program studi ini, bisa berasal dari berbagai jurusan yang ada di SLTA.
+Mahasiswa program studi ini, berasal dari berbagai daerah, yang menunjukkan bahwa program studi ini sudah dikenal di daerah mereka. Namun, tidak bisa dipungkiri bahwa program studi harus terus meningkatkan mutu agar selalu bisa bersaing.
+
+    </string>
+    <string name="tab_mi">
+        Dalam situasi perekonomian saat ini, pemerintah Indonesia memerlukan upaya-upaya baru untuk mengembalikan kehidupan perekonomian yang lebih baik. Salah satu bentuk upaya yang sedang dilakukan adalah sedikit menggeser prioritas perekonomian nasional dari bentuk resource-base economy ke bentuk knowledge-base economy. Dengan pola pergeseran ini, peran IPTEK menjadi sangat penting untuk mendukung visi Pembangunan Jangka Panjang (RPJP) tahun 2005-2025 yaitu “Indonesia Yang Maju, Mandiri, dan Adil”. Sejalan dengan hal tersebut, banyak organisasi yang telah berkembang ke bentuk dynamic network. Dalam dynamic network organization, peranan TI menjadi sangat penting.
+ Jurusan/program studi Manajemen Informatika dengan jenjang D3 diharapkan dapat memberikan kontribusi untuk mewujudkan kebutuhan tenaga-tenaga siap pakai pada semua bidang TI. Dalam mewujudkan harapan tersebut maka jurusan/program studi Manajemen Informatika membuat kurikulum yang berbasis kompetensi.
+ Sesuai dengan Keputusan Menteri Pendidikan Nasional RI No. 232 Tahun 2000 tentang Pedoman Penyusunan Kurikulum Pendidikan Tinggi dan Penilaian Hasil Belajar Mahasiswa, jurusan/program studi Manajemen Informatika jenjang D3 (MI-D3), pada tahun akademik 2004/2005 mengikuti pola yang dianjurkan oleh  SK Mendiknas tersebut. Setelah melalui proses yang cukup panjang, kurikulum berbasis kompetensi program studi MI diberlakukan bagi semua mahasiswa MI yang belum menyelesaikan studinya hingga tahun akademik 2003/2004. Selain hasil kurikulum yang dituangkan dalam bentuk distribusi semesteran, pengembangan isi dan materi silabi juga diberlakukan.
+
+    </string>
+    <string name="tab_ka">
+        Program studi Komputerisasi Akuntansi di STMIK AKAKOM didirikan pada tahun 1999. Pada saat berdiri, program studi Komputerisasi Akuntansi memperoleh status Terdaftar berdasarkan SK Dirjen Dikti Nomor 39/DIKTI/Kep/1999. Setelah itu program studi Komputerisasi Akuntansi terus menerus berusaha memperbaiki diri dan meningkatkan kualitas dan statusnya.
+Program studi Komputerisasi Akuntansi mendapatkan Akreditasi BAN-PT dengan nilai B pada tahun 2012. Perolehan status tersebut merupakan bukti kemauan dari pihak akademis untuk selalu memberikan peningkatan kualitas pendidikan.
+
+    </string>
+    <string name="tab_tk">
+        Dilandasi kesadaran potensi pesatnya kemajuan teknologi elektronika, program studi Teknik Komputer jenjang D3 merupakan bagian Jurusan Teknik Komputer yang mengemban amanat melatih dan menghasilkan ahli madya yang berkecimpung dalam lingkup teknik elektronika, microprocessor, instrumentasi kendali, dan telekomunikasi. Peran ahli madya bidang ini antara lain untuk menjembatani level perancang dan pengguna teknologi, melakukan supervisi proses produksi, melakukan instalasi-instalasi systems dan networking untuk berbagai keperluan mulai dari perkantoran, housing, hotels, medis, sarana navigasi, hingga entertainment support.
+ Mahasiswa program ini disarankan menyelesaikan beban akademik 110 sks dan latihan kerja dalam rentang 6 semester. Frame akademik dalam program ini sarat kegiatan praktek dengan peranti hi-tech measurement dan device programming, sehingga mahasiswa dituntut tekun dan berlatih mengembangkan logika. Alur matakuliah dan praktik yang ada mengindikasikan kepada konsentrasi Instrumentasi, Future Control, dan Jaringan Computer. Pada akhir masa studi, mahasiswa dilatih menyelesaikan laporan tugas akhir, yang menunjukkan penguasaan penyelesaian pekerjaan tertentu dalam lingkup yang disebut di muka. Mahasiswa yang mampu dapat melanjutkan studi pada jenjang selanjutnya (D4/S1), bidang yang sesuai umumnya adalah dengan lingkup keteknikan dan systems.
+
+    </string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
