@@ -2,9 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".program_studi">
 
     <android.support.v4.widget.NestedScrollView
@@ -20,20 +20,19 @@
                 android:id="@+id/tab1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
                 android:text="Teknik Informatika"
-                android:textSize="24sp"
                 android:textColor="@color/basic_color"
-                android:layout_marginBottom="16dp"/>
+                android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/explain_ti"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="@string/tab_ti"
-                android:textSize="16sp"
                 android:layout_below="@id/tab1"
+                android:text="@string/tab_ti"
                 android:textColor="@color/basic_color"
-                />
+                android:textSize="16sp" />
         </RelativeLayout>
     </android.support.v4.widget.NestedScrollView>
 

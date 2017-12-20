@@ -99,36 +99,26 @@ Program studi Komputerisasi Akuntansi mendapatkan Akreditasi BAN-PT dengan nilai
     </string>
     <string name="tautanList">ListView From Array</string>
 
-
+    <string name="title">KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</string>
+    <string name="description">Seorang yang sangat tertarik dengan perkembangan teknologi dan antusias terhadap komunitas dan startup</string>
     <string name="tautan">Tautan Situs Resmi </string>
+    <string-array name="array_list">
+        <item>STMIK AKAKOM JANTI</item>
+        <item>SIAKAD AKAKOM</item>
+        <item>LABORATORIUM AKAKOM</item>
+        <item>YAYASAN WIDYA BAKTI</item>
+        <item>TI STMIK AKAKOM</item>
+        <item>SI STMIK AKAKOM</item>
+        <item>KA STMIK AKAKOM</item>
+        <item>MI STMIK AKAKOM</item>
+        <item>TK STMIK AKAKOM</item>
+        <item>PERPUSTAKAAN AKAKOM</item>
+        <item>BLOG MAHASISWA</item>
+        <item>HMJTI</item>
+        <item>HMJKA</item>
+        <item>HMJSI</item>
 
-    <string name="news_one_title">KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</string>
-    <string name="news_one_desc">
-        Yogyakarta, 21 November 2017-Perkembangan IT pada sebuah negara mampu meningkatkan kinerja  yang ada,
-        sehingga negara tersebut bisa dikatakan sebagai negara maju. IT berperan penting dalam pendidikan,
-        maka SMK UMAR FATAH mengadakan  kunjungan industri bagi siswa kelas 11 yang terdiri dari kompetensi keahlian Multimedia,
-        Rekayasa Perangkat Lunak, dan Teknik Komputer dan Jaringan ke STMIK AKAKOM dengan jumlah peserta sebanyak 80 orang.
-        STMIK AKAKOM merupakan sekolah  tinggi IT yang tertua di Yogyakarta dan institusi yang sudah terakreditasi B.
-    </string>
-    <string name="news_two_title">Kuliah Akbar Aksi Kebangsaan Perguruan Tinggi Melawan Radikalisme</string>
-    <string name="news_two_desc">
-        Kuliah akbar aksi kebangsaan perguruan tinggi melawan radikalisme ini dilaksanakan di Stadion Mandala Krida Yogyakarta,
-        Sabtu (28/10/2017). Kuliah akbar ini diikuti dari berbagai universitas diseluruh provinsi DIY,
-        ada sekitar kurang lebih 17.000 mahasiswa yang ikut berpartisipasi dalam kuliah akbar tersebut.
-        Acara ini juga dihadiri oleh Gubernur DIY, Pimpinan Polri, TNI, dan Pimpinan dari Perguran Tinggi Se-DIY.
-    </string>
-    <string name="news_three_title">DevSummit 2017- Yogyakarta Dengan Tema “Github For Kids Jaman Now”</string>
-    <string name="news_three_desc">Event Road To “DevSummit 2017” merupakan event yang diselenggarakan oleh Codepolitan dan Refactory.
-        Event ini merupakan salah satu event pembuka untuk memperkenalkan kepada komunitas IT yang berada diseluruh Indonesia tentang DevSummit 2017.
-        Event ini diadakan di tiga kota besar yaitu Jakarta, Bandung, dan Yogyakarta.
-        STMIK AKAKOM terpilih menjadi tuan rumah diadakannya DevSummit 2017 untuk Kota Yogyakarta.</string>
-    <string name="news_four_title">Kuliah TAMU Dengan Tema “Mencegah Paham Radikalisme Dengan Mengamalkan Pancasila”</string>
-    <string name="news_four_desc"> Kuliah TAMU dengan tema “Mencegah Paham Radikalisme dengan Mengamalkan Pancasila”
-        yang diselenggarakan oleh BEM STMIK AKAKOM, Sabtu, (14/10/2017).
-        Kuliah tamu ini diselenggarakan di Ruang Presentasi Akakom dengan narasumber Drs. H. Muhammad Idham Samawi.
-        Peserta dari kuliah tamu ini dihadiri oleh mahasiswa STMIK AKAKOM.
-        Kuliah tamu dibuka oleh Ibu Syamsu Windarti selaku bidang kemahasiswaan STMIK AKAKOM.
 
- </string>
+    </string-array>
 
 </resources>
