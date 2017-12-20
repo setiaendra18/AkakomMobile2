@@ -40,7 +40,7 @@
             android:fontFamily="sans-serif-medium"
             android:textSize="18dp"
             tools:targetApi="jelly_bean"
-            android:textColor="@color/amber_dark"
+            android:textColor="@color/amber"
             tools:text="A Budi Sugiharjo" />
 
         <TextView
