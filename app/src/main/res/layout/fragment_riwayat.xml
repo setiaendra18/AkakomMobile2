@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20dp"
-            android:textColor="@color/amber_dark"
+            android:textColor="@color/amber"
             android:fontFamily="sans-serif-medium"
             android:text="RIWAYAT STMIK AKAKOM"/>
 
@@ -32,9 +32,9 @@
             android:id="@+id/txt_desc"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-
             android:layout_marginTop="8dp"
             android:textSize="16dp"
+            android:textColor="@color/deskripsiprofil"
             android:text="@string/tab_riwayat" />
 
     </LinearLayout>

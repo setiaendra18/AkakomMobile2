@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
-            android:textColor="@color/amber_dark"
+            android:textColor="@color/amber"
             android:textSize="20dp"
             android:text="VISI" />
 
@@ -34,6 +34,7 @@
             android:layout_height="wrap_content"
             android:textSize="16dp"
             android:layout_marginTop="8dp"
+            android:textColor="@color/deskripsiprofil"
             android:text="@string/visi"/>
         <TextView
             android:id="@+id/txt_title_misi"
@@ -42,7 +43,7 @@
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
-            android:textColor="@color/amber_dark"
+            android:textColor="@color/amber"
             android:textSize="20dp"
             android:text="MISI" />
 
@@ -52,7 +53,7 @@
             android:layout_height="wrap_content"
             android:textSize="16dp"
             android:layout_marginTop="8dp"
-
+            android:textColor="@color/deskripsiprofil"
             android:text="@string/misi"/>
         <TextView
             android:id="@+id/txt_title_tujuan"
@@ -61,7 +62,7 @@
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
-            android:textColor="@color/amber_dark"
+            android:textColor="@color/amber"
             android:textSize="20dp"
             android:text="TUJUAN" />
 
@@ -71,7 +72,7 @@
             android:layout_height="wrap_content"
             android:textSize="16dp"
             android:layout_marginTop="8dp"
-
+            android:textColor="@color/deskripsiprofil"
             android:text="@string/tujuan"/>
         <TextView
             android:id="@+id/txt_title_sasaran"
@@ -80,7 +81,7 @@
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:fontFamily="sans-serif-medium"
-            android:textColor="@color/amber_dark"
+            android:textColor="@color/amber"
             android:textSize="20dp"
             android:text="SASARAN" />
 
@@ -90,7 +91,7 @@
             android:layout_height="wrap_content"
             android:textSize="16dp"
             android:layout_marginTop="8dp"
-
+            android:textColor="@color/deskripsiprofil"
             android:text="@string/sasaran"/>
     </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
