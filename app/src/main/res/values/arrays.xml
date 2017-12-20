@@ -35,4 +35,22 @@
         <item>bertabed61@gmail.com </item>
         <item>cosmas@akakom.ac.id</item>
     </string-array>
+
+    <string-array name="array_list">
+        <item>STMIK AKAKOM JANTI</item>
+        <item>SIAKAD AKAKOM</item>
+        <item>LABORATORIUM AKAKOM</item>
+        <item>YAYASAN WIDYA BAKTI</item>
+        <item>TI STMIK AKAKOM</item>
+        <item>SI STMIK AKAKOM</item>
+        <item>KA STMIK AKAKOM</item>
+        <item>MI STMIK AKAKOM</item>
+        <item>TK STMIK AKAKOM</item>
+        <item>PERPUSTAKAAN AKAKOM</item>
+        <item>BLOG MAHASISWA</item>
+        <item>HMJTI</item>
+        <item>HMJKA</item>
+        <item>HMJSI</item>
+
+    </string-array>
 </resources>

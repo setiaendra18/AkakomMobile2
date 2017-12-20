@@ -6,6 +6,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class tautan extends AppCompatActivity  {
+
     ListView listView;
     ArrayAdapter<CharSequence> adapter;
     @Override
@@ -16,6 +17,9 @@ public class tautan extends AppCompatActivity  {
         adapter = ArrayAdapter.createFromResource(this,R.array.array_list,android.R.layout.simple_list_item_1);
         listView.setAdapter(adapter);
 
-    }
+
+
+           }
+
 
 }

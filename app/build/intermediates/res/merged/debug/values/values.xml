@@ -1,23 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
     <string-array name="array_list">
-            <item>STMIK AKAKOM JANTI</item>
-            <item>SIAKAD AKAKOM</item>
-            <item>LABORATORIUM AKAKOM</item>
-            <item>YAYASAN WIDYA BAKTI</item>
-            <item>TI STMIK AKAKOM</item>
-            <item>SI STMIK AKAKOM</item>
-            <item>KA STMIK AKAKOM</item>
-            <item>MI STMIK AKAKOM</item>
-            <item>TK STMIK AKAKOM</item>
-            <item>PERPUSTAKAAN AKAKOM</item>
-            <item>BLOG MAHASISWA</item>
-            <item>HMJTI</item>
-            <item>HMJKA</item>
-            <item>HMJSI</item>
+        <item>STMIK AKAKOM JANTI</item>
+        <item>SIAKAD AKAKOM</item>
+        <item>LABORATORIUM AKAKOM</item>
+        <item>YAYASAN WIDYA BAKTI</item>
+        <item>TI STMIK AKAKOM</item>
+        <item>SI STMIK AKAKOM</item>
+        <item>KA STMIK AKAKOM</item>
+        <item>MI STMIK AKAKOM</item>
+        <item>TK STMIK AKAKOM</item>
+        <item>PERPUSTAKAAN AKAKOM</item>
+        <item>BLOG MAHASISWA</item>
+        <item>HMJTI</item>
+        <item>HMJKA</item>
+        <item>HMJSI</item>
 
-
-        </string-array>
+    </string-array>
+    <string-array name="contact_email">
+        <item>abudisug@akakom.ac.id</item>
+         <item>adikusja@akakom.ac.id </item>
+        <item>aditya@akakom.ac.id </item>
+        <item>yudha_pr@akakom.ac.id </item>
+        <item>agnesnora@akakom.ac.id </item>
+        <item>agung_bp@akakom.ac.id </item>
+        <item>Alagus@akakom.ac.id. </item>
+        <item>iest_ayanthi@akakom.ac.id </item>
+        <item>ajidharma@akakom.ac.id </item>
+        <item>badi@akakom.ac.id </item>
+        <item>bpurnomo@akakom.ac.id </item>
+        <item>bheriw@akakom.ac.id</item>
+        <item>bertabed@akakom.ac.id </item>
+        <item>bertabed61@gmail.com </item>
+        <item>cosmas@akakom.ac.id</item>
+    </string-array>
+    <string-array name="contact_names">
+        <item>A Budi Sugihardjo </item>
+        <item>Adi Kusjani</item>
+        <item>Aditya Dimas Dewanto</item>
+        <item>Adiyuda Prayitna</item>
+        <item>Agnes Nora Eko Wahyu Utami </item>
+        <item>Agung Budi Prasetyo </item>
+        <item>Aloysius Subagyo </item>
+        <item>Ariesta Damayanti</item>
+        <item>Ary Ajidharma </item>
+        <item>Badiyanto  </item>
+        <item>Bambang Purnomosidi D.P.</item>
+        <item>Basuki Heri Winarno</item>
+        <item>Berta Bednar </item>
+        <item>Berta Bednar</item>
+        <item>Cosmas Haryawan </item>
+    </string-array>
     <attr format="reference" name="constraintSet"/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -732,13 +765,40 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="description">Seorang yang sangat tertarik dengan perkembangan teknologi dan antusias terhadap komunitas dan startup</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="misi">"Adapun misi STMIK AKAKOM adalah melaksanakan Tridharma Perguruan Tinggi dalam bidang komputer dan "
         "teknologi informasi yang berorientasi kepada perkembangan ilmu pengetahuan, teknologi dan seni.\n"
     </string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="news_four_desc"> Kuliah TAMU dengan tema “Mencegah Paham Radikalisme dengan Mengamalkan Pancasila”
+        yang diselenggarakan oleh BEM STMIK AKAKOM, Sabtu, (14/10/2017).
+        Kuliah tamu ini diselenggarakan di Ruang Presentasi Akakom dengan narasumber Drs. H. Muhammad Idham Samawi.
+        Peserta dari kuliah tamu ini dihadiri oleh mahasiswa STMIK AKAKOM.
+        Kuliah tamu dibuka oleh Ibu Syamsu Windarti selaku bidang kemahasiswaan STMIK AKAKOM.
+
+ </string>
+    <string name="news_four_title">Kuliah TAMU Dengan Tema “Mencegah Paham Radikalisme Dengan Mengamalkan Pancasila”</string>
+    <string name="news_one_desc">
+        Yogyakarta, 21 November 2017-Perkembangan IT pada sebuah negara mampu meningkatkan kinerja  yang ada,
+        sehingga negara tersebut bisa dikatakan sebagai negara maju. IT berperan penting dalam pendidikan,
+        maka SMK UMAR FATAH mengadakan  kunjungan industri bagi siswa kelas 11 yang terdiri dari kompetensi keahlian Multimedia,
+        Rekayasa Perangkat Lunak, dan Teknik Komputer dan Jaringan ke STMIK AKAKOM dengan jumlah peserta sebanyak 80 orang.
+        STMIK AKAKOM merupakan sekolah  tinggi IT yang tertua di Yogyakarta dan institusi yang sudah terakreditasi B.
+    </string>
+    <string name="news_one_title">KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</string>
+    <string name="news_three_desc">Event Road To “DevSummit 2017” merupakan event yang diselenggarakan oleh Codepolitan dan Refactory.
+        Event ini merupakan salah satu event pembuka untuk memperkenalkan kepada komunitas IT yang berada diseluruh Indonesia tentang DevSummit 2017.
+        Event ini diadakan di tiga kota besar yaitu Jakarta, Bandung, dan Yogyakarta.
+        STMIK AKAKOM terpilih menjadi tuan rumah diadakannya DevSummit 2017 untuk Kota Yogyakarta.</string>
+    <string name="news_three_title">DevSummit 2017- Yogyakarta Dengan Tema “Github For Kids Jaman Now”</string>
+    <string name="news_two_desc">
+        Kuliah akbar aksi kebangsaan perguruan tinggi melawan radikalisme ini dilaksanakan di Stadion Mandala Krida Yogyakarta,
+        Sabtu (28/10/2017). Kuliah akbar ini diikuti dari berbagai universitas diseluruh provinsi DIY,
+        ada sekitar kurang lebih 17.000 mahasiswa yang ikut berpartisipasi dalam kuliah akbar tersebut.
+        Acara ini juga dihadiri oleh Gubernur DIY, Pimpinan Polri, TNI, dan Pimpinan dari Perguran Tinggi Se-DIY.
+    </string>
+    <string name="news_two_title">Kuliah Akbar Aksi Kebangsaan Perguruan Tinggi Melawan Radikalisme</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -790,7 +850,6 @@
     <string name="tab_tk">Teknik Komputer merupakan sebuah jurusan yang berada dalam lingkup STMIK AKAKOM</string>
     <string name="tautan">Tautan Situs Resmi </string>
     <string name="tautanList">ListView From Array</string>
-    <string name="title">KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</string>
     <string name="title_activity_utama">Info dan Beria</string>
     <string name="tujuan">"Tujuan yang ingin dicapai STMIK AKAKOM adalah :\n\n"
         "1.  Terselenggaranya sistem pendidikan yang tanggap terhadap perkembangan ilmu dan teknologi informasi "

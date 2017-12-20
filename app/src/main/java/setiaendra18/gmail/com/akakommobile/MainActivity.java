@@ -7,14 +7,21 @@ import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-
+    private RecyclerView recyclerView;
+    private List<News> newsList;
+    private RecyclerViewAdapter adapter;
 
 
     @Override
@@ -32,9 +39,24 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        LinearLayoutManager layoutManager=new LinearLayoutManager(this);
+        recyclerView= (RecyclerView) findViewById(R.id.recyclerView);
+        initPersonData();
+        adapter=new RecyclerViewAdapter(newsList,MainActivity.this);
+
+        recyclerView.setHasFixedSize(true);
+        recyclerView.setLayoutManager(layoutManager);
+        recyclerView.setAdapter(adapter);
 
         }
+    private void initPersonData() {
+        newsList =new ArrayList<>();
 
+        newsList.add(new News(getString(R.string.news_one_title),getString(R.string.news_one_desc),R.drawable.umar));
+        newsList.add(new News(getString(R.string.news_two_title),getString(R.string.news_two_desc),R.drawable.aksikebangsaan));
+        newsList.add(new News(getString(R.string.news_three_title),getString(R.string.news_three_desc),R.drawable.devsummit2017));
+        newsList.add(new News(getString(R.string.news_four_title),getString(R.string.news_four_desc),R.drawable.kuliahtamu));
+    }
 
 
 

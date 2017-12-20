@@ -25,7 +25,7 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".profil" />
         <activity android:name=".program_studi" />
-        <activity android:name=".tautan" />
+        <activity android:name=".tautan"></activity>
         <activity android:name=".kontak_kami" />
     </application>
 
