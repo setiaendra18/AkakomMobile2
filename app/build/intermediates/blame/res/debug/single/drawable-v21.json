@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\e611abbe6fad180fb0fd084565e3801bfb10118c\\output\\res\\drawable-v21\\avd_hide_password.xml"
-    },
-    {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\logo3.png",
         "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\drawable-v21\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\mhr\\.android\\build-cache\\e611abbe6fad180fb0fd084565e3801bfb10118c\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
