@@ -37,6 +37,9 @@
         <activity android:name="setiaendra18.gmail.com.akakommobile.program_studi" />
         <activity android:name="setiaendra18.gmail.com.akakommobile.tautan" />
         <activity android:name="setiaendra18.gmail.com.akakommobile.kontak_kami" />
+        <activity
+            android:name="setiaendra18.gmail.com.akakommobile.NewsActivity"
+            android:parentActivityName="setiaendra18.gmail.com.akakommobile.MainActivity" />
     </application>
 
 </manifest>

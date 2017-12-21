@@ -2,12 +2,12 @@ package setiaendra18.gmail.com.akakommobile;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 
-public class NewsActivity extends AppCompatActivity {
+public class NewsActivity extends profil {
     private ImageView newsPhoto;
     private TextView newsTitle;
     private TextView newsDesc;
@@ -28,5 +28,8 @@ public class NewsActivity extends AppCompatActivity {
         newsTitle.setText(item.getTitle());
         newsDesc.setText(item.getDesc());
 
+        final Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 }

@@ -21,7 +21,7 @@ public class tautan extends program_studi  {
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-           }
+    }
 
 
 }
