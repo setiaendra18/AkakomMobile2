@@ -58,8 +58,6 @@ public class MainActivity extends AppCompatActivity
         newsList.add(new News(getString(R.string.news_four_title),getString(R.string.news_four_desc),R.drawable.kuliahtamu));
     }
 
-
-
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

@@ -102,6 +102,7 @@ Program studi Komputerisasi Akuntansi mendapatkan Akreditasi BAN-PT dengan nilai
     <string name="title">KUNJUNGAN INDUSTRI SMK UMAR FATAH KE STMIK AKAKOM</string>
     <string name="description">Seorang yang sangat tertarik dengan perkembangan teknologi dan antusias terhadap komunitas dan startup</string>
     <string name="tautan">Tautan Situs Resmi </string>
+
     <string-array name="array_list">
         <item>STMIK AKAKOM JANTI</item>
         <item>SIAKAD AKAKOM</item>

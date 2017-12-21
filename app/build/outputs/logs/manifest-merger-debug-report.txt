@@ -1,133 +1,133 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-30:19
-MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Gallery\.android\build-cache\49b2203c6d4d676eb7c6891082e98cd32473d60a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Gallery\.android\build-cache\f8f4a3b588ef27cf2293a6af959dbd60e034590c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gallery\.android\build-cache\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Gallery\.android\build-cache\f235cce45997d07d86a4d3ce5364bbb8a034ab43\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Gallery\.android\build-cache\27faa04517f677de2039eafc1196f903077a2664\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Gallery\.android\build-cache\448c9a795faa7d184398447d3e5223d829b3234c\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gallery\.android\build-cache\e76d33fca05d989642c271304e9df28f353daaeb\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Gallery\.android\build-cache\75b6bfe16923ad705b78b23356795c19c5fb9642\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gallery\.android\build-cache\e3ae224d75bf74392b99960b3323f2719cabe2c8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gallery\.android\build-cache\2d2051d3a4299be05a9d7615fb8e102a01080270\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gallery\.android\build-cache\ea28ce54dbfea67c6ae7dab6a7afb90b019338b9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gallery\.android\build-cache\2a520f26046eaf4e2c9c7280b9d51d0cfa02491f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gallery\.android\build-cache\ec17137ad252057f4ca73dd2840194e17acf2c53\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gallery\.android\build-cache\87ead426594704250fd35b97ee7a30a44e980bdd\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\mhr\.android\build-cache\da598b4e51042b22a1dddefc047056e39d6c67e7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\mhr\.android\build-cache\e611abbe6fad180fb0fd084565e3801bfb10118c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mhr\.android\build-cache\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mhr\.android\build-cache\339f31f4b25e2ce431667eefe48e36b180abd366\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mhr\.android\build-cache\b4f88f68fe37690322cc74929df8baad5d1023db\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mhr\.android\build-cache\402b535fc2bc9f8b83ddfedaddee1af67d6998a9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mhr\.android\build-cache\f42c2a4e7d6f631f5b4b0084e697f44899d41e10\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\mhr\.android\build-cache\612078ba9b137671d9d8f278fe5508ce15a5592d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mhr\.android\build-cache\92d631b52ab261ac21d15494b9e952834dcd7a5e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mhr\.android\build-cache\b25b3a13214f89554e6765902b99c725208fa424\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mhr\.android\build-cache\06cbf2d016f26e432af5ab8bd73cdd2e8ac8c8ef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mhr\.android\build-cache\48608b99db339980931bb1e7bc0e7654b0f05fee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mhr\.android\build-cache\2f70529a8a365d6cdd91b65f0e416bc60961fc2d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mhr\.android\build-cache\3a6c2dadcfbca5f7acd3b6f2f8673454510c2d77\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:13:9-35
 	android:roundIcon
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:12:9-54
 	android:allowBackup
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:14:9-40
 activity#setiaendra18.gmail.com.akakommobile.Splash
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-24:20
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-24:20
 	android:label
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:17:13-45
 	android:theme
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:16:13-35
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:16:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:22:27-74
 activity#setiaendra18.gmail.com.akakommobile.MainActivity
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-50
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-50
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-47
 activity#setiaendra18.gmail.com.akakommobile.profil
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-44
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-44
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-41
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-41
 activity#setiaendra18.gmail.com.akakommobile.program_studi
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-51
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-51
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-48
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-48
 activity#setiaendra18.gmail.com.akakommobile.tautan
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-53
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-53
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-41
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-41
 activity#setiaendra18.gmail.com.akakommobile.kontak_kami
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-49
+ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-49
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-46
+		ADDED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-46
 uses-sdk
-INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Gallery\.android\build-cache\49b2203c6d4d676eb7c6891082e98cd32473d60a\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.3.1] C:\Users\Gallery\.android\build-cache\f8f4a3b588ef27cf2293a6af959dbd60e034590c\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gallery\.android\build-cache\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Gallery\.android\build-cache\f235cce45997d07d86a4d3ce5364bbb8a034ab43\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Gallery\.android\build-cache\27faa04517f677de2039eafc1196f903077a2664\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Gallery\.android\build-cache\448c9a795faa7d184398447d3e5223d829b3234c\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gallery\.android\build-cache\e76d33fca05d989642c271304e9df28f353daaeb\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Gallery\.android\build-cache\75b6bfe16923ad705b78b23356795c19c5fb9642\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Gallery\.android\build-cache\629330a50c4af0ec6ca982c9b1db6be4130a105f\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gallery\.android\build-cache\e3ae224d75bf74392b99960b3323f2719cabe2c8\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gallery\.android\build-cache\2d2051d3a4299be05a9d7615fb8e102a01080270\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gallery\.android\build-cache\ea28ce54dbfea67c6ae7dab6a7afb90b019338b9\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gallery\.android\build-cache\2a520f26046eaf4e2c9c7280b9d51d0cfa02491f\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gallery\.android\build-cache\ec17137ad252057f4ca73dd2840194e17acf2c53\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gallery\.android\build-cache\87ead426594704250fd35b97ee7a30a44e980bdd\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\mhr\.android\build-cache\da598b4e51042b22a1dddefc047056e39d6c67e7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\mhr\.android\build-cache\e611abbe6fad180fb0fd084565e3801bfb10118c\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mhr\.android\build-cache\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mhr\.android\build-cache\339f31f4b25e2ce431667eefe48e36b180abd366\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mhr\.android\build-cache\b4f88f68fe37690322cc74929df8baad5d1023db\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mhr\.android\build-cache\402b535fc2bc9f8b83ddfedaddee1af67d6998a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mhr\.android\build-cache\f42c2a4e7d6f631f5b4b0084e697f44899d41e10\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\mhr\.android\build-cache\612078ba9b137671d9d8f278fe5508ce15a5592d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\mhr\.android\build-cache\7d0316fc2c364e5c65dd8fd6bb30810a920e6323\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mhr\.android\build-cache\92d631b52ab261ac21d15494b9e952834dcd7a5e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mhr\.android\build-cache\b25b3a13214f89554e6765902b99c725208fa424\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mhr\.android\build-cache\06cbf2d016f26e432af5ab8bd73cdd2e8ac8c8ef\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mhr\.android\build-cache\48608b99db339980931bb1e7bc0e7654b0f05fee\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mhr\.android\build-cache\2f70529a8a365d6cdd91b65f0e416bc60961fc2d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mhr\.android\build-cache\3a6c2dadcfbca5f7acd3b6f2f8673454510c2d77\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Gallery\.android\build-cache\f8f4a3b588ef27cf2293a6af959dbd60e034590c\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\mhr\.android\build-cache\e611abbe6fad180fb0fd084565e3801bfb10118c\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mhr\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\Gallery\.android\build-cache\49b2203c6d4d676eb7c6891082e98cd32473d60a\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.1] C:\Users\Gallery\.android\build-cache\f8f4a3b588ef27cf2293a6af959dbd60e034590c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gallery\.android\build-cache\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Gallery\.android\build-cache\f235cce45997d07d86a4d3ce5364bbb8a034ab43\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Gallery\.android\build-cache\27faa04517f677de2039eafc1196f903077a2664\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Gallery\.android\build-cache\448c9a795faa7d184398447d3e5223d829b3234c\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Gallery\.android\build-cache\75b6bfe16923ad705b78b23356795c19c5fb9642\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Gallery\.android\build-cache\629330a50c4af0ec6ca982c9b1db6be4130a105f\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gallery\.android\build-cache\e3ae224d75bf74392b99960b3323f2719cabe2c8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gallery\.android\build-cache\2d2051d3a4299be05a9d7615fb8e102a01080270\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gallery\.android\build-cache\ea28ce54dbfea67c6ae7dab6a7afb90b019338b9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gallery\.android\build-cache\2a520f26046eaf4e2c9c7280b9d51d0cfa02491f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gallery\.android\build-cache\ec17137ad252057f4ca73dd2840194e17acf2c53\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gallery\.android\build-cache\87ead426594704250fd35b97ee7a30a44e980bdd\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\mhr\.android\build-cache\da598b4e51042b22a1dddefc047056e39d6c67e7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\mhr\.android\build-cache\e611abbe6fad180fb0fd084565e3801bfb10118c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mhr\.android\build-cache\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mhr\.android\build-cache\339f31f4b25e2ce431667eefe48e36b180abd366\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mhr\.android\build-cache\b4f88f68fe37690322cc74929df8baad5d1023db\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mhr\.android\build-cache\402b535fc2bc9f8b83ddfedaddee1af67d6998a9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\mhr\.android\build-cache\612078ba9b137671d9d8f278fe5508ce15a5592d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\mhr\.android\build-cache\7d0316fc2c364e5c65dd8fd6bb30810a920e6323\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mhr\.android\build-cache\92d631b52ab261ac21d15494b9e952834dcd7a5e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mhr\.android\build-cache\b25b3a13214f89554e6765902b99c725208fa424\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mhr\.android\build-cache\06cbf2d016f26e432af5ab8bd73cdd2e8ac8c8ef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mhr\.android\build-cache\48608b99db339980931bb1e7bc0e7654b0f05fee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mhr\.android\build-cache\2f70529a8a365d6cdd91b65f0e416bc60961fc2d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mhr\.android\build-cache\3a6c2dadcfbca5f7acd3b6f2f8673454510c2d77\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\Gallery\.android\build-cache\49b2203c6d4d676eb7c6891082e98cd32473d60a\output\AndroidManifest.xml:24:9-31
+		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\mhr\.android\build-cache\da598b4e51042b22a1dddefc047056e39d6c67e7\output\AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\Gallery\.android\build-cache\49b2203c6d4d676eb7c6891082e98cd32473d60a\output\AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\mhr\.android\build-cache\da598b4e51042b22a1dddefc047056e39d6c67e7\output\AndroidManifest.xml:23:9-47
