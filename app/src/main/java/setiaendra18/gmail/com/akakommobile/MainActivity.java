@@ -19,9 +19,9 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    private RecyclerView recyclerView;
-    private List<News> newsList;
-    private RecyclerViewAdapter adapter;
+    public RecyclerView recyclerView;
+    public List<News> newsList;
+    public RecyclerViewAdapter adapter;
 
 
     @Override

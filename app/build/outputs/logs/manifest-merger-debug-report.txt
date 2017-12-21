@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:3:5-50
 		INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\And
 	android:name
 		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-30:19
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-31:19
 MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Gallery\.android\build-cache\49b2203c6d4d676eb7c6891082e98cd32473d60a\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\Gallery\.android\build-cache\f8f4a3b588ef27cf2293a6af959dbd60e034590c\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gallery\.android\build-cache\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\output\AndroidManifest.xml:29:5-20
@@ -50,7 +50,7 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gallery\.androi
 	android:theme
 		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:14:9-40
 activity#setiaendra18.gmail.com.akakommobile.Splash
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-24:20
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
 		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:17:13-45
 	android:theme
@@ -58,35 +58,41 @@ ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\And
 	android:name
 		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:16:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
 		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:21:27-74
 activity#setiaendra18.gmail.com.akakommobile.MainActivity
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-50
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:24:19-47
 activity#setiaendra18.gmail.com.akakommobile.profil
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-44
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-44
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-41
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-41
 activity#setiaendra18.gmail.com.akakommobile.program_studi
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-51
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-48
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-48
 activity#setiaendra18.gmail.com.akakommobile.tautan
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-53
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-53
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-41
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-41
 activity#setiaendra18.gmail.com.akakommobile.kontak_kami
-ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-49
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-49
 	android:name
-		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-46
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-46
+activity#setiaendra18.gmail.com.akakommobile.NewsActivity
+ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-30:57
+	android:parentActivityName
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-47
 uses-sdk
 INJECTED from C:\Users\Gallery\AndroidStudioProjects\AkakomMobile2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Gallery\.android\build-cache\49b2203c6d4d676eb7c6891082e98cd32473d60a\output\AndroidManifest.xml:20:5-43
