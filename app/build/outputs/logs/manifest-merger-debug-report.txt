@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:17:1-31:12
@@ -19,33 +19,33 @@ MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:17:1-31:12
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-31:19
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-31:19
 MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:29:5-20
@@ -75,65 +75,65 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gr
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:14:9-40
 activity#setiaendra18.gmail.com.akakommobile.Splash
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:17:13-45
 	android:theme
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:16:13-35
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:16:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-22:29
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:21:27-74
 activity#setiaendra18.gmail.com.akakommobile.MainActivity
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:24:9-50
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:24:19-47
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:24:19-47
 activity#setiaendra18.gmail.com.akakommobile.profil
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-44
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-44
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-41
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-41
 activity#setiaendra18.gmail.com.akakommobile.program_studi
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-51
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-48
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-48
 activity#setiaendra18.gmail.com.akakommobile.tautan
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-53
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-53
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-41
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-41
 activity#setiaendra18.gmail.com.akakommobile.kontak_kami
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-49
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-49
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-46
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-46
 activity#setiaendra18.gmail.com.akakommobile.NewsActivity
-ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-30:57
+ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-30:57
 	android:parentActivityName
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:30:13-55
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:30:13-55
 	android:name
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-47
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-47
 uses-sdk
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:21:5-23:62
@@ -164,18 +164,18 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gr
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:21:5-23:58
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AkakomMobile2\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:25:5-27:34
