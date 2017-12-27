@@ -1,133 +1,210 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\66097b3cc4d69ec2f3e0b594369ec93b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\9824659c788bcd677ef08bd40da05413\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\3a42cb800f7d4356b75b940554a3de84\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\395abb44ab72c9470441f92d427dac19\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b2d092f75f2cf591ac4670851fb8a175\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\81ebe2b0d64144005afbecc8b569eb2b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e248b315f14c296d458c9d91182a8f8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91e39e3c558e2b85348028709d102f1a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a66080a459193297459153caafb68ab\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-30:19
-MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\putri\.android\build-cache\d85ff1f828e46e403ec39ddb910f83e9d79ee61b\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\putri\.android\build-cache\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\putri\.android\build-cache\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\putri\.android\build-cache\51bba2b655d8a2c4d91fa9909c5f721195ff7b24\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\putri\.android\build-cache\947c77fa91a5313aa2d354ab04083b3969a767cb\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\putri\.android\build-cache\1cc427d18be5c3a545075613c4908640cdeaeb19\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\putri\.android\build-cache\8ab55d9dce3190504e139d992d79a82af3ed4a0c\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\putri\.android\build-cache\d352f32c01b58595c892d086df0b9dfebe92fafe\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\putri\.android\build-cache\bea8e349b7ee1de649dd9bcfb2d928d4275253b7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\putri\.android\build-cache\9f41bad247c2c75a4a11dc154d3d0e38ac36a24f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\putri\.android\build-cache\e89a8e048bb405f4d2e1430a1a3118ee69284d4d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\putri\.android\build-cache\ac2965c17ee2891adcefa4c4ae0f4ca10f91b2c8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\putri\.android\build-cache\80740f898db8bc7945f7953ccd3fdf4c2457001d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\putri\.android\build-cache\bf64c1315115372fc7d7adcbd59215526a887029\output\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:11:9-41
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:8:5-31:19
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\66097b3cc4d69ec2f3e0b594369ec93b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\66097b3cc4d69ec2f3e0b594369ec93b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\9824659c788bcd677ef08bd40da05413\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\9824659c788bcd677ef08bd40da05413\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\395abb44ab72c9470441f92d427dac19\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\395abb44ab72c9470441f92d427dac19\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b2d092f75f2cf591ac4670851fb8a175\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b2d092f75f2cf591ac4670851fb8a175\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\81ebe2b0d64144005afbecc8b569eb2b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\81ebe2b0d64144005afbecc8b569eb2b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e248b315f14c296d458c9d91182a8f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e248b315f14c296d458c9d91182a8f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91e39e3c558e2b85348028709d102f1a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91e39e3c558e2b85348028709d102f1a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a66080a459193297459153caafb68ab\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a66080a459193297459153caafb68ab\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:13:9-35
-	android:roundIcon
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:12:9-54
-	android:allowBackup
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:9:9-35
-	android:icon
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:10:9-43
-	android:theme
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:14:9-40
-activity#setiaendra18.gmail.com.akakommobile.Splash
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-24:20
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:14:9-40
+activity#setiaendra18.gmail.com.akakommobile.Splash
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:16:13-35
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:16:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:21:27-74
 activity#setiaendra18.gmail.com.akakommobile.MainActivity
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-50
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:24:19-47
 activity#setiaendra18.gmail.com.akakommobile.profil
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-44
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:25:9-44
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-41
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:25:19-41
 activity#setiaendra18.gmail.com.akakommobile.program_studi
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-51
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-48
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:26:19-48
 activity#setiaendra18.gmail.com.akakommobile.tautan
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-44
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:27:9-53
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-41
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:27:19-41
 activity#setiaendra18.gmail.com.akakommobile.kontak_kami
-ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-49
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:28:9-49
 	android:name
-		ADDED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-46
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:28:19-46
+activity#setiaendra18.gmail.com.akakommobile.NewsActivity
+ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:29:9-30:57
+	android:parentActivityName
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml:29:19-47
 uses-sdk
-INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\putri\.android\build-cache\d85ff1f828e46e403ec39ddb910f83e9d79ee61b\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.3.1] C:\Users\putri\.android\build-cache\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\putri\.android\build-cache\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\putri\.android\build-cache\51bba2b655d8a2c4d91fa9909c5f721195ff7b24\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\putri\.android\build-cache\947c77fa91a5313aa2d354ab04083b3969a767cb\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\putri\.android\build-cache\1cc427d18be5c3a545075613c4908640cdeaeb19\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\putri\.android\build-cache\8ab55d9dce3190504e139d992d79a82af3ed4a0c\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\putri\.android\build-cache\d352f32c01b58595c892d086df0b9dfebe92fafe\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\putri\.android\build-cache\9977d74bcd6fc85404f7edc61582cd9e6a03bd28\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\putri\.android\build-cache\bea8e349b7ee1de649dd9bcfb2d928d4275253b7\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\putri\.android\build-cache\9f41bad247c2c75a4a11dc154d3d0e38ac36a24f\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\putri\.android\build-cache\e89a8e048bb405f4d2e1430a1a3118ee69284d4d\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\putri\.android\build-cache\ac2965c17ee2891adcefa4c4ae0f4ca10f91b2c8\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\putri\.android\build-cache\80740f898db8bc7945f7953ccd3fdf4c2457001d\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\putri\.android\build-cache\bf64c1315115372fc7d7adcbd59215526a887029\output\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\66097b3cc4d69ec2f3e0b594369ec93b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\66097b3cc4d69ec2f3e0b594369ec93b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\9824659c788bcd677ef08bd40da05413\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\9824659c788bcd677ef08bd40da05413\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\3a42cb800f7d4356b75b940554a3de84\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\3a42cb800f7d4356b75b940554a3de84\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\395abb44ab72c9470441f92d427dac19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\395abb44ab72c9470441f92d427dac19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b2d092f75f2cf591ac4670851fb8a175\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b2d092f75f2cf591ac4670851fb8a175\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\81ebe2b0d64144005afbecc8b569eb2b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\81ebe2b0d64144005afbecc8b569eb2b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e248b315f14c296d458c9d91182a8f8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e248b315f14c296d458c9d91182a8f8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91e39e3c558e2b85348028709d102f1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91e39e3c558e2b85348028709d102f1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a66080a459193297459153caafb68ab\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a66080a459193297459153caafb68ab\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\putri\.android\build-cache\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\putri\Documents\GitHub\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		ADDED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AkakomMobile2\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\putri\.android\build-cache\d85ff1f828e46e403ec39ddb910f83e9d79ee61b\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.1] C:\Users\putri\.android\build-cache\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\putri\.android\build-cache\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\putri\.android\build-cache\51bba2b655d8a2c4d91fa9909c5f721195ff7b24\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\putri\.android\build-cache\947c77fa91a5313aa2d354ab04083b3969a767cb\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\putri\.android\build-cache\1cc427d18be5c3a545075613c4908640cdeaeb19\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\putri\.android\build-cache\d352f32c01b58595c892d086df0b9dfebe92fafe\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\putri\.android\build-cache\9977d74bcd6fc85404f7edc61582cd9e6a03bd28\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\putri\.android\build-cache\bea8e349b7ee1de649dd9bcfb2d928d4275253b7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\putri\.android\build-cache\9f41bad247c2c75a4a11dc154d3d0e38ac36a24f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\putri\.android\build-cache\e89a8e048bb405f4d2e1430a1a3118ee69284d4d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\putri\.android\build-cache\ac2965c17ee2891adcefa4c4ae0f4ca10f91b2c8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\putri\.android\build-cache\80740f898db8bc7945f7953ccd3fdf4c2457001d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\putri\.android\build-cache\bf64c1315115372fc7d7adcbd59215526a887029\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\d2820612034497bc4ba5eb820b53ac3f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c90dcae664a9e07e1b2ff5c9c92fdcb2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\9824659c788bcd677ef08bd40da05413\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\9824659c788bcd677ef08bd40da05413\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\3a42cb800f7d4356b75b940554a3de84\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\3a42cb800f7d4356b75b940554a3de84\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\395abb44ab72c9470441f92d427dac19\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\395abb44ab72c9470441f92d427dac19\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b2d092f75f2cf591ac4670851fb8a175\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b2d092f75f2cf591ac4670851fb8a175\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\81ebe2b0d64144005afbecc8b569eb2b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\81ebe2b0d64144005afbecc8b569eb2b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e248b315f14c296d458c9d91182a8f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\7e248b315f14c296d458c9d91182a8f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91e39e3c558e2b85348028709d102f1a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\91e39e3c558e2b85348028709d102f1a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a66080a459193297459153caafb68ab\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a66080a459193297459153caafb68ab\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ee49c6bc22b8acd69b3875f97746ab62\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\309831ce0c775b1f38451d31f5d2ec76\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7b53b9e22467bb4812533826cca1ac09\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\putri\.android\build-cache\d85ff1f828e46e403ec39ddb910f83e9d79ee61b\output\AndroidManifest.xml:24:9-31
+		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\putri\.android\build-cache\d85ff1f828e46e403ec39ddb910f83e9d79ee61b\output\AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:palette-v7:25.3.1] C:\Users\ADHIT\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.1.aar\53743b7df55423adc49884faf2384f80\AndroidManifest.xml:23:9-47
