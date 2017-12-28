@@ -13,7 +13,7 @@
         android:label="Tests for setiaendra18.gmail.com.akakommobile"
         android:targetPackage="setiaendra18.gmail.com.akakommobile" />
 
-    <application android:debuggable="true" >
+    <application>
         <uses-library android:name="android.test.runner" />
     </application>
 

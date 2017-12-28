@@ -52,7 +52,7 @@
         <item>edyprayitno@akakom.ac.id </item>
     </string-array>
 
-    <string-array name="array_list">
+    <!--string-array name="array_list">
         <item>STMIK AKAKOM JANTI</item>
         <item>SIAKAD AKAKOM</item>
         <item>LABORATORIUM AKAKOM</item>
@@ -67,5 +67,6 @@
         <item>HMJTI</item>
         <item>HMJKA</item>
         <item>HMJSI</item>
-    </string-array>
+
+    </string-array-->
 </resources>

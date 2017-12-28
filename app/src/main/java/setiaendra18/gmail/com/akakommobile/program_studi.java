@@ -40,7 +40,7 @@ public class program_studi extends profil {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        /*    //kurang sync dengan isi menu profile crash antara pakai navdraw dengan tidak pakai navdraw
+        /*    //tidak sync dengan isi menu profile crash antara pakai navdraw dengan tidak pakai navdraw
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

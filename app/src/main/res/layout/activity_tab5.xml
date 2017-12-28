@@ -2,9 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".program_studi">
 
     <android.support.v4.widget.NestedScrollView
@@ -12,28 +12,27 @@
         android:layout_height="match_parent"
         android:padding="8dp">
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <TextView
-            android:id="@+id/tab1"
+        <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Teknik Komputer"
-            android:textSize="24sp"
-            android:textColor="@color/basic_color"
-            android:layout_marginBottom="16dp"/>
+            android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/explain_ti"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="@string/tab_tk"
-            android:textSize="16sp"
-            android:layout_below="@id/tab1"
-            android:textColor="@color/basic_color"
-            />
-    </RelativeLayout>
+            <TextView
+                android:id="@+id/tab1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:text="Teknik Komputer"
+                android:textColor="@color/basic_color"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/explain_ti"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/tab1"
+                android:text="@string/tab_tk"
+                android:textColor="@color/basic_color"
+                android:textSize="16sp" />
+        </RelativeLayout>
     </android.support.v4.widget.NestedScrollView>
 </LinearLayout>

@@ -12,7 +12,6 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,8 +27,10 @@ public class MainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -57,8 +58,6 @@ public class MainActivity extends AppCompatActivity
         newsList.add(new News(getString(R.string.news_three_title),getString(R.string.news_three_desc),R.drawable.devsummit2017));
         newsList.add(new News(getString(R.string.news_four_title),getString(R.string.news_four_desc),R.drawable.kuliahtamu));
     }
-
-
 
     @Override
     public void onBackPressed() {
