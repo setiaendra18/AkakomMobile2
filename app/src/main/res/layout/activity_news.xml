@@ -52,7 +52,7 @@
                         android:layout_alignParentLeft="true"
                         android:layout_below="@+id/news_info_photo"
                         android:gravity="left"
-                        android:padding="5dp"
+                        android:padding="8dp"
                         android:textColor="@color/amber"
                         android:textSize="20sp" />
                 </RelativeLayout>
@@ -61,7 +61,7 @@
                     android:id="@+id/news_info_desc"
                     android:layout_below="@+id/news_header"
                     android:lineSpacingExtra="5dp"
-                    android:padding="5dp"
+                    android:padding="8dp"
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
