@@ -2010,7 +2010,7 @@ Kegiatan-kegiatan yang dilaksanakan oleh Program Studi Teknik Informatika  sanga
         "berbobot dalam bidang informatika dan komputer, maka sejak tanggal 8 Juni 1992, berdasarkan "
         "Surat Keputusan Direktorat Jendral Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI "
         "Nomor 262/DIKTI/Kep/1992, AMIK AKAKOM diubah bentuknya menjadi Sekolah Tinggi Manajemen Informatika "
-        "dan Komputer (STMIK) AKAKOM yang membuka program sarjana dan program diploma..\n\n"</string><string name="app_title">STMIK AKAKOM JANTI</string><string name="address">Daerah Istimewa Yogyakarta</string><string name="tujuan">"Tujuan yang ingin dicapai STMIK AKAKOM adalah :\n\n"
+        "dan Komputer (STMIK) AKAKOM yang membuka program sarjana dan program diploma..\n\n"</string><string name="app_title">STMIK AKAKOM JANTI</string><string name="address"/><string name="tujuan">"Tujuan yang ingin dicapai STMIK AKAKOM adalah :\n\n"
         "1.  Terselenggaranya sistem pendidikan yang tanggap terhadap perkembangan ilmu dan teknologi informasi "
         "dengan memadukan keunggulan akademik dan mutu profesi.\n"
         "2.  Terselenggaranya penelitian untuk menghasilkan temuan baru, rekayasa, dan kajian yang berguna bagi "
@@ -2057,7 +2057,7 @@ Program studi Komputerisasi Akuntansi mendapatkan Akreditasi BAN-PT dengan nilai
         <item>HMJSI</item>
 
 
-    </string-array><string name="alamat"> ALAMAT  </string><string name="navigation_drawer_close">Close navigation drawer</string><string name="news_two_desc">
+    </string-array><string name="alamat"> Daerah Istimewa Yogyakarta  </string><string name="navigation_drawer_close">Close navigation drawer</string><string name="news_two_desc">
         Kuliah akbar aksi kebangsaan perguruan tinggi melawan radikalisme ini dilaksanakan di Stadion Mandala Krida Yogyakarta,
         Sabtu (28/10/2017). Kuliah akbar ini diikuti dari berbagai universitas diseluruh provinsi DIY,
         ada sekitar kurang lebih 17.000 mahasiswa yang ikut berpartisipasi dalam kuliah akbar tersebut.

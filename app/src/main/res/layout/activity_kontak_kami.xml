@@ -30,7 +30,7 @@
                 android:background="@drawable/akakom"
                 android:fitsSystemWindows="true"
                 android:scaleType="centerCrop"
-                app:layout_collapseMode="parallax" />
+                app:layout_collapseMode="none" />
 
             <View
                 android:layout_width="match_parent"
