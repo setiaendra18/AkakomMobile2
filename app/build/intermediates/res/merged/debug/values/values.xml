@@ -5,18 +5,14 @@
         <item>SIAKAD AKAKOM</item>
         <item>LABORATORIUM AKAKOM</item>
         <item>YAYASAN WIDYA BAKTI</item>
+        <item>PENDAFTARAN MAHASISWA</item>
         <item>TI STMIK AKAKOM</item>
-        <item>SI STMIK AKAKOM</item>
-        <item>KA STMIK AKAKOM</item>
-        <item>MI STMIK AKAKOM</item>
-        <item>TK STMIK AKAKOM</item>
         <item>PERPUSTAKAAN AKAKOM</item>
         <item>BLOG MAHASISWA</item>
         <item>HMJTI</item>
-        <item>HMJKA</item>
         <item>HMJSI</item>
-
-
+        <item>HMJTK</item>
+        <item>UKM I dan K</item>
     </string-array>
     <string-array name="contact_email">
         <item>abudisug@akakom.ac.id</item>

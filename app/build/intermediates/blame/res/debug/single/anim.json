@@ -12,12 +12,12 @@
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\back_up\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\anim\\design_fab_in.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\putri\\.android\\build-cache\\fe4db7d4e2f752ef9dc75ebc17ea15edf6c27622\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
         "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
@@ -156,12 +156,12 @@
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\back_up\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",

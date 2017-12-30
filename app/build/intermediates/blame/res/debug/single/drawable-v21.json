@@ -120,6 +120,10 @@
         "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\drawable-v21\\logo3.png"
     },
     {
+        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\akakomhtab.png",
+        "source": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\src\\main\\res\\drawable-v21\\akakomhtab.png"
+    },
+    {
         "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\back_up\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },

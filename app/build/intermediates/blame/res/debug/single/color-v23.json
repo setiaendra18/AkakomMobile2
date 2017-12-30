@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "D:\\KULIAH\\SEMESTER5\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\putri\\Documents\\GitHub\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\putri\\.android\\build-cache\\f85e432e67f30a99a81f6c3fd9e3601e8257fab8\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "E:\\MOBILE\\new\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
