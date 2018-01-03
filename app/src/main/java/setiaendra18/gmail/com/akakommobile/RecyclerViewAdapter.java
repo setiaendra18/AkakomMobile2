@@ -23,7 +23,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         this.newses = newses;
         this.context=context;
     }
-
     static class NewsViewHolder extends RecyclerView.ViewHolder{
 
         CardView cardView;
@@ -39,7 +38,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
             news_title= (TextView) itemView.findViewById(R.id.news_title);
             news_desc= (TextView) itemView.findViewById(R.id.news_desc);
             readMore= (Button) itemView.findViewById(R.id.btn_more);
-
         }
 
     }

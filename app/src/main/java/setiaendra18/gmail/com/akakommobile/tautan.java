@@ -18,7 +18,6 @@ public class tautan extends program_studi {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tautan);
-
 /*        listView = (ListView)findViewById(R.id.listView);
         adapter = ArrayAdapter.createFromResource(this,R.array.array_list,android.R.layout.simple_list_item_1);
         listView.setAdapter(adapter);
@@ -31,7 +30,6 @@ public class tautan extends program_studi {
         adapter = ArrayAdapter.createFromResource(this, R.array.array_list, android.R.layout.simple_list_item_1);
 //    ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
         //          R.array.array_list, );
-
         ListView list = (ListView) findViewById(R.id.listView);
         list.setAdapter(adapter);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {

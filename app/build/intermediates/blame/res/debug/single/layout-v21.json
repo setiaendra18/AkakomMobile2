@@ -1,35 +1,7 @@
 [
     {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\back_up\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\back_up\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\back_up\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\back_up\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
@@ -38,10 +10,6 @@
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\Gallery\\.android\\build-cache\\3e1cc63abfb69443bd95c70dbdc6d9d61bd20919\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\mhr\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\mhr\\.android\\build-cache\\ea3cecb46f7fc5cd3a147f1859254fe0e19ddc4c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\Gallery\\AndroidStudioProjects\\AkakomMobile2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
