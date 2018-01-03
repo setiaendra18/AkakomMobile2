@@ -39,7 +39,7 @@ public class tautan extends program_studi {
                                     int position, long id) {
                 switch (position) {
                     case 0:
-                        String url0 = "https://www.akakom.ac.id/";
+                        String url0 = "http://www.akakom.ac.id/";
                         Intent i0 = new Intent(Intent.ACTION_VIEW);
                         i0.setData(Uri.parse(url0));
                         startActivity(i0);
@@ -75,7 +75,7 @@ public class tautan extends program_studi {
                         startActivity(i5);
                         break;
                     case 6:
-                        String url6 = "https://perpus.akakom.ac.id/";
+                        String url6 = "http://perpus.akakom.ac.id/";
                         Intent i6 = new Intent(Intent.ACTION_VIEW);
                         i6.setData(Uri.parse(url6));
                         startActivity(i6);
@@ -87,13 +87,13 @@ public class tautan extends program_studi {
                         startActivity(i7);
                         break;
                     case 8:
-                        String url8 = "https://hmjti.akakom.ac.id/";
+                        String url8 = "http://hmjti.akakom.ac.id/";
                         Intent i8 = new Intent(Intent.ACTION_VIEW);
                         i8.setData(Uri.parse(url8));
                         startActivity(i8);
                         break;
                     case 9:
-                        String url9 = "https://hmjsi.akakom.ac.id/\n";
+                        String url9 = "http://hmjsi.akakom.ac.id/\n";
                         Intent i9 = new Intent(Intent.ACTION_VIEW);
                         i9.setData(Uri.parse(url9));
                         startActivity(i9);
@@ -105,7 +105,7 @@ public class tautan extends program_studi {
                         startActivity(i10);
                         break;
                     case 11:
-                        String url11 = "https://ukm-ik.akakom.ac.id/";
+                        String url11 = "http://ukm-ik.akakom.ac.id/";
                         Intent i11 = new Intent(Intent.ACTION_VIEW);
                         i11.setData(Uri.parse(url11));
                         startActivity(i11);
