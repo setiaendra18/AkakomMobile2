@@ -39,7 +39,7 @@ public class tautan extends program_studi {
                                     int position, long id) {
                 switch (position) {
                     case 0:
-                        String url0 = "https://akakom.ac.id/";
+                        String url0 = "https://www.akakom.ac.id/";
                         Intent i0 = new Intent(Intent.ACTION_VIEW);
                         i0.setData(Uri.parse(url0));
                         startActivity(i0);
