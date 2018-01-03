@@ -57,7 +57,7 @@ public class tautan extends program_studi {
                         startActivity(i2);
                         break;
                     case 3:
-                        String url3 = "http://www.widyabaktiyk.or.id/";
+                        String url3 = "http://widyabaktiyk.or.id/";
                         Intent i3 = new Intent(Intent.ACTION_VIEW);
                         i3.setData(Uri.parse(url3));
                         startActivity(i3);

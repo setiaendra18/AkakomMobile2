@@ -19,7 +19,6 @@ int animator design_appbar_state_list_animator 0x7f060000
 int array array_list 0x7f0d0000
 int array contact_email 0x7f0d0001
 int array contact_names 0x7f0d0002
-int array search_provider_link_array 0x7f0d0003
 int attr actionBarDivider 0x7f010072
 int attr actionBarItemBackground 0x7f010073
 int attr actionBarPopupTheme 0x7f01006c

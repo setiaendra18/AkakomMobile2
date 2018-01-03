@@ -34,7 +34,6 @@ public final class R {
         public static final int array_list=0x7f0d0000;
         public static final int contact_email=0x7f0d0001;
         public static final int contact_names=0x7f0d0002;
-        public static final int search_provider_link_array=0x7f0d0003;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
