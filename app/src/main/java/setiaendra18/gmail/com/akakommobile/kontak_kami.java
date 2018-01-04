@@ -106,10 +106,9 @@ public class kontak_kami extends AppCompatActivity {
                 ContextCompat.getColor(this, R.color.cyan_50)), "FeedBack");
         adapter.addFrag(new VisiMisiFragment(
                 ContextCompat.getColor(this, R.color.amber_50)), "Kontak");
-        //adapter.addFrag(new ContactFragment(
-              //  ContextCompat.getColor(this, R.color.white_70)), "Dosen");
         viewPager.setAdapter(adapter);
     }
+
     /*
         @Override
         public boolean onCreateOptionsMenu(Menu menu) {
@@ -177,6 +176,7 @@ public class kontak_kami extends AppCompatActivity {
             return view;
         }
     }
+
     public static class VisiMisiFragment extends Fragment {
         int color;
 
@@ -195,17 +195,18 @@ public class kontak_kami extends AppCompatActivity {
             return view;
         }
     }
+
     public static class ContactFragment extends Fragment {
         int color;
 
         public ContactFragment() {
+
         }
 
         @SuppressLint("ValidFragment")
         public ContactFragment(int color) {
             this.color = color;
         }
-
 
 
     }

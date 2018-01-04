@@ -1,82 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
-
-    <android.support.v4.widget.NestedScrollView
+    <EditText
+        android:id="@+id/to"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_margin="8dp"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:paddingBottom="14dp"
-        android:paddingLeft="14dp"
-        android:paddingRight="14dp"
-        android:paddingTop="14dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="80dp"
-        tools:ignore="MissingConstraints">
+        android:hint="afrilla.adit@gmail.com" />
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
+    <EditText
+        android:id="@+id/subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject" />
 
-            <EditText
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:hint="Masukkan Email Anda" />
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="156dp"
+        android:gravity="top"
+        android:hint="Message" />
 
-            <EditText
-                android:id="@+id/editTextSubjek"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:hint="Masukkan Email Anda"
-                android:inputType="textEmailAddress" />
-        </LinearLayout>
-
-        <EditText
-            android:id="@+id/editTextPesan"
-            android:layout_width="match_parent"
-            android:layout_height="161dp"
-            android:layout_marginBottom="8dp"
-            android:layout_weight="1"
-            android:hint="Tulis pesan anda"
-            android:inputType="textLongMessage" />
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal">
-
-            <Button
-                android:id="@+id/ShowToast"
-                style="@style/Widget.AppCompat.Button.Colored"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_weight="1"
-                android:text="Submit" />
-
-            <Button
-                android:id="@+id/buttonReset"
-                style="@style/Widget.AppCompat.Button.Colored"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_weight="1"
-                android:text="Reset" />
-
-
-        </LinearLayout>
-    </LinearLayout>
-
-    </android.support.v4.widget.NestedScrollView>
+    <Button
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Send" />
 </LinearLayout>

@@ -141,4 +141,8 @@ Program studi Komputerisasi Akuntansi mendapatkan Akreditasi BAN-PT dengan nilai
     <string name="alamat"> Daerah Istimewa Yogyakarta  </string>
     <string name="address"></string>
 
+    //about
+    <string name="Apple"> Daerah Istimewa Yogyakarta  </string>
+
+
 </resources>
